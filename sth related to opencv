@@ -2,7 +2,7 @@ opencv3.4.3+cmake+cuda:
 1. download source file
 2. create new folder - build
 3. cmake - grouped - configure
-4. with cuda
+4. with cuda (If the cuda is just installed, restart the pc)
 5. generate
 6. all build / install - debug + release
 7. enviroment variables
